@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Tugas_1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\Kuliah\MSIB\Arief Eko Farhan_FundProg.txt" Link="Arief Eko Farhan_FundProg.txt" />
+  </ItemGroup>
+
+</Project>
